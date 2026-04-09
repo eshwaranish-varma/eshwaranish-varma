@@ -32,7 +32,7 @@ I thrive in collaborative environments, leveraging technologies like **Python**,
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-### Data & Analytics
+### Data Engineering
 - **Big Data Frameworks:** PySpark, Databricks
 - **Data Processing:** Pandas, NumPy
 - **ML & AI:** Machine Learning, LangChain, Prompt Engineering
