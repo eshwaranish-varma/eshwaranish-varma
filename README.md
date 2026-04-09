@@ -8,9 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-eshwaranish--varma-blue?logo=github)](https://github.com/eshwaranish-varma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eshwaranishvarma-blue?logo=linkedin)](https://linkedin.com/in/eshwaranishvarma)
-[![Twitter](https://img.shields.io/badge/Twitter-@eshwaranishvarma-blue?logo=twitter)](https://twitter.com/eshwaranishvarma)
-[![YouTube](https://img.shields.io/badge/YouTube-eshwaranishvarma-red?logo=youtube)](https://youtube.com/eshwaranishvarma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-eshwaranish.io-orange)](https://eshwaranish.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eshwaranish.io-orange)](https://eshwaranish.me)
 
 </div>
 
